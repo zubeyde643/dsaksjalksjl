@@ -1,0 +1,30 @@
+{
+  "name": "cowboy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Chrome",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "croxydb": "0.0.7",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "instagram-private-api": "^1.43.3",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.10",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "snekfetch": "^4.0.4",
+    "snowflake": "^0.1.2",
+    "wio.db": "^4.0.9"
+  }
+}
